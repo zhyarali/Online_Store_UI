@@ -1,0 +1,37 @@
+{
+  "name": "system",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "serve": "vue-cli-service serve",
+    "build": "vue-cli-service build"
+  },
+  "dependencies": {
+    "@splidejs/vue-splide": "^0.3.5",
+    "axios": "^0.21.1",
+    "core-js": "^3.6.5",
+    "jquery": "^3.6.0",
+    "vue": "^2.6.11",
+    "vue-axios": "^3.2.4",
+    "vue-carousel": "^0.18.0",
+    "vue-owl-carousel": "^2.0.3",
+    "vue-product-carousel": "^1.2.1",
+    "vue-router": "^3.2.0",
+    "vue-simple-search-dropdown": "^1.0.1",
+    "vue-slick-carousel": "^1.0.6",
+    "vue-tiny-slider": "^0.1.39",
+    "vuex": "^3.4.0"
+  },
+  "devDependencies": {
+    "@vue/cli-plugin-babel": "~4.5.0",
+    "@vue/cli-plugin-router": "~4.5.0",
+    "@vue/cli-plugin-vuex": "~4.5.0",
+    "@vue/cli-service": "~4.5.0",
+    "vue-template-compiler": "^2.6.11"
+  },
+  "browserslist": [
+    "> 1%",
+    "last 2 versions",
+    "not dead"
+  ]
+}
